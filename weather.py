@@ -3,6 +3,7 @@ from datetime import datetime
 
 DEGREE_SYBMOL = u"\N{DEGREE SIGN}C"
 
+#test comment
 
 def format_temperature(temp):
     """Takes a temperature and returns it in string format with the degrees
